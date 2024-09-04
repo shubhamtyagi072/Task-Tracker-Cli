@@ -23,7 +23,7 @@ with taken from [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/pr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-cli.git
+git clone https://github.com/shubhamtyagi072/Task-Tracker-Cli
 cd task-cli
 ```
 

@@ -1,0 +1,12 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI to manage tasks",
+  "main": "task-cli.js",
+  "bin": {
+    "task-cli": "./task-cli.js"
+  },
+  "scripts": {},
+  "author": "Shubham Tyagi",
+  "license": "ISC"
+}
